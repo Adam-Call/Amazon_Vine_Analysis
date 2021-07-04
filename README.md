@@ -6,7 +6,7 @@ In this analysis we will be looking to find if there is any bias within the vine
 
 ## Results
 
-    -![helpful_reviews](https://user-images.githubusercontent.com/80363261/124392167-cd846b00-dcb9-11eb-92a3-d2201a67c5c1.png)
+    ![helpful_reviews](https://user-images.githubusercontent.com/80363261/124392167-cd846b00-dcb9-11eb-92a3-d2201a67c5c1.png)
 
 -How many Vine reviews and non-Vine reviews were there?
 
