@@ -6,7 +6,7 @@ In this analysis we will be looking to find if there is any bias within the vine
 
 ## Results
 
-    -!![helpful_reviews](https://github.com/Adam-Call/Amazon_Vine_Analysis/blob/main/Resources/helpful_reviews.png)
+![helpful_reviews](https://github.com/Adam-Call/Amazon_Vine_Analysis/blob/main/Resources/helpful_reviews.png)
 
 -How many Vine reviews and non-Vine reviews were there?
 
